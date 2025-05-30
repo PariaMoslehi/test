@@ -27,4 +27,4 @@ switch(today) {
         day = "خطا در دریافت روز هفته";
 }
 
-document.write("امروز: " + day);
+document.write("1امروز: " + day);
